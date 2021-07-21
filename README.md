@@ -8,3 +8,8 @@
 pinkyca01/pinkyca01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center">
+
+  <a href="https://github.com/mancabot"><img src="https://github-readme-stats.vercel.app/api?username=mancabot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+
+</p>
